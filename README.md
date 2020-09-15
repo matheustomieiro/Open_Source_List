@@ -102,7 +102,7 @@ Repositório simples para abrigar links de varios repositórios de excelentes pr
   <li>Descrição: Pacote de ferramentas Office, totalmente gratuito e open-source.</li>
   </ul>
 
-<h3>FromScratch></h3>
+<h3>FromScratch</h3>
   <ul>
   <li>Link: https://github.com/Kilian/fromscratch</li>
   <li>Descrição: Utilitário para tomar notas rápidas.</li>
