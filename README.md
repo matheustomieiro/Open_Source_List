@@ -4,11 +4,11 @@ Repositório simples para abrigar links de varios programas open-source.
 
 <h2>Audio/Musica</h2>
 
-*<h3>Clementine</h3>
-  
-  *Link: https://github.com/clementine-player/Clementine
-  *Descrição: Player de musica completo.
-
+<h3>Clementine</h3>
+  <ul>
+  <li>Link: https://github.com/clementine-player/Clementine</li>
+  <li>Descrição: Player de musica completo.</li>
+  </ul>
 
 <h3>Tomahawk</h3>
   
