@@ -9,6 +9,7 @@ Repositório simples para abrigar links de varios programas open-source.
   <li>Link: https://github.com/clementine-player/Clementine</li>
   <li>Descrição: Player de musica completo.</li>
   </ul>
+  <hr>
 
 <h3>Tomahawk</h3>
   
