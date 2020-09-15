@@ -4,7 +4,9 @@ Repositório simples para abrigar links de varios programas open-source.
 
 <h2>Audio/Musica<h2>
 
-<h3>Clementine<h3><a>https://github.com/clementine-player/Clementine<a> Player de musica completo.
+<h3>Clementine<h3>
+  https://github.com/clementine-player/Clementine
+  Player de musica completo.
 
 <h3>Tomahawk<h3><a>https://github.com/tomahawk-player/tomahawk<a>Outro player de musica. Particularmente, acho mais elegante que o Clementine.
 
