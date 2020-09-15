@@ -59,6 +59,12 @@ Repositório simples para abrigar links de varios repositórios de excelentes pr
   <li>Link: https://github.com/KDE/krita</li>
   <li>Descrição: Como o GIMP, é um poderoso editor de imagens e produtor de conteúdo. É mais voltado pra conteúdo cartunesco, desenhos, mangás, HQ, etc. Mas também cumpre muito bem o papel de edições do dia-a-dia</li>
   </ul>
+  
+  <h3>Darktable</h3>
+  <ul>
+  <li>Link: https://github.com/darktable-org/darktable</li>
+  <li>Descrição: Software para edição de imagens, acréscimos de efeitos, correção de tons e muito mais.</li>
+  </ul>
 
 <hr>
 
