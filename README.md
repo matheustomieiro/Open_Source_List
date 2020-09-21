@@ -10,12 +10,6 @@ Repositório simples para abrigar links de varios repositórios de excelentes pr
   <li>Descrição: Player de musica completo.</li>
   </ul>
 
-<h3>Tomahawk</h3>
-  <ul>
-  <li>Link: https://github.com/tomahawk-player/tomahawk</li>
-  <li>Descrição: Player de musica. Particularmente, acho mais elegante que o Clementine.</li>
-  </ul>
-
 <h3>Audacity</h3>
   <ul>
   <li>Link: https://github.com/audacity/audacity</li>
@@ -152,6 +146,12 @@ Repositório simples para abrigar links de varios repositórios de excelentes pr
   <ul>
   <li>Link: https://github.com/godotengine/godot</li>
   <li>Descrição: Game Engine multiplataforma. Completo, fácil e rápido para produzir games de qualidade.</li>
+  </ul>
+
+<h3>RenPy</h3>
+  <ul>
+  <li>Link: https://github.com/renpy/renpy</li>
+  <li>Descrição: Engine para criação de Visual Novels. Considero, hoje, a melhor engine para VNs, levando em conta a facilidade e portabilidade.</li>
   </ul>
 
 <hr>
