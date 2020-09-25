@@ -132,6 +132,12 @@ Repositório simples para abrigar links de varios repositórios de excelentes pr
   <li>Descrição: IDE para programacao em linguagem Lua, inclusive, contruído também em Lua.</li>
   </ul>
 
+<h3>Moonscript</h3>
+  <ul>
+  <li>Link: https://github.com/leafo/moonscript</li>
+  <li>Descrição: Linguagem de script para a linguagem Lua.</li>
+  </ul>
+ 
 <hr>
 
 <h2>E-books</h2>
@@ -176,6 +182,12 @@ Repositório simples para abrigar links de varios repositórios de excelentes pr
   <ul>
   <li>Link: https://github.com/renpy/renpy</li>
   <li>Descrição: Engine para criação de Visual Novels. Considero, hoje, a melhor engine para VNs, levando em conta a facilidade e portabilidade.</li>
+  </ul>
+  
+ <h3>Solar2D</h3>
+  <ul>
+  <li>Link: https://github.com/coronalabs/corona</li>
+  <li>Descrição: Game Engine construido em linguagem Lua.</li>
   </ul>
 
 <hr>
