@@ -110,6 +110,30 @@ Repositório simples para abrigar links de varios repositórios de excelentes pr
 
 <hr>
 
+
+<h2>Programacao/IDEs/Editores</h2>
+
+<h3>Notepad++</h3>
+  <ul>
+  <li>Link: https://github.com/notepad-plus-plus/notepad-plus-plus</li>
+  <li>Descrição: Editor de texto completo com suporte à varias linguagens.</li>
+  </ul>
+
+<h3>Visual Studio Code</h3>
+  <ul>
+  <li>Link: https://github.com/microsoft/vscode</li>
+  <li>Descrição: Editor de texto (Quase uma IDE) para programacao. Possui inumeros plugins,
+    entao provavelmente voce encontrará suporte à linguagem que em que deseja programar, seja ela qual for.</li>
+  </ul>
+
+<h3>Zero Brane Studio</h3>
+  <ul>
+  <li>Link: https://github.com/pkulchenko/ZeroBraneStudio</li>
+  <li>Descrição: IDE para programacao em linguagem Lua, inclusive, contruído também em Lua.</li>
+  </ul>
+
+<hr>
+
 <h2>E-books</h2>
 
 <h3>Calibre</h3>
