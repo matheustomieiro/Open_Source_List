@@ -167,6 +167,10 @@ Repositório simples para abrigar links de varios repositórios de excelentes pr
   <li>Link: https://github.com/wesnoth/wesnoth</li>
   <li>Descrição: Jogo de estratégia em turnos; dos open-source, é um que eu gosto muito.</li>
   </ul>
+  <ul>
+  <li>Link: https://github.com/assaultcube/AC</li>
+  <li>Descrição: Jogo de tiro, estilo FPS.</li>
+  </ul>
 
 <hr>
 
