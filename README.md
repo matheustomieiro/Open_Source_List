@@ -196,4 +196,16 @@ Repositório simples para abrigar links de varios repositórios de excelentes pr
   <li>Descrição: Game Engine construido em linguagem Lua.</li>
   </ul>
 
+ <h3>Trelby</h3>
+  <ul>
+  <li>Link: https://github.com/trelby/trelby</li>
+  <li>Descrição: Editor para criação de scripts de história.</li>
+  </ul>
+
+ <h3>KIT Scenarist</h3>
+  <ul>
+  <li>Link: https://github.com/dimkanovikov/KITScenarist</li>
+  <li>Descrição: Editor poderoso para criação de scripts de história. Particularmente, acredito que mais completo.</li>
+  </ul>
+
 <hr>
